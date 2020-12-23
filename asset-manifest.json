@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/plusultra-tienda/static/css/main.263808ee.chunk.css",
-    "main.js": "/plusultra-tienda/static/js/main.97fac480.chunk.js",
-    "main.js.map": "/plusultra-tienda/static/js/main.97fac480.chunk.js.map",
+    "main.js": "/plusultra-tienda/static/js/main.fb4f5d0f.chunk.js",
+    "main.js.map": "/plusultra-tienda/static/js/main.fb4f5d0f.chunk.js.map",
     "runtime-main.js": "/plusultra-tienda/static/js/runtime-main.4f99bab7.js",
     "runtime-main.js.map": "/plusultra-tienda/static/js/runtime-main.4f99bab7.js.map",
-    "static/js/2.c3f941e0.chunk.js": "/plusultra-tienda/static/js/2.c3f941e0.chunk.js",
-    "static/js/2.c3f941e0.chunk.js.map": "/plusultra-tienda/static/js/2.c3f941e0.chunk.js.map",
+    "static/js/2.1add59b9.chunk.js": "/plusultra-tienda/static/js/2.1add59b9.chunk.js",
+    "static/js/2.1add59b9.chunk.js.map": "/plusultra-tienda/static/js/2.1add59b9.chunk.js.map",
     "index.html": "/plusultra-tienda/index.html",
     "static/css/main.263808ee.chunk.css.map": "/plusultra-tienda/static/css/main.263808ee.chunk.css.map",
-    "static/js/2.c3f941e0.chunk.js.LICENSE.txt": "/plusultra-tienda/static/js/2.c3f941e0.chunk.js.LICENSE.txt"
+    "static/js/2.1add59b9.chunk.js.LICENSE.txt": "/plusultra-tienda/static/js/2.1add59b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4f99bab7.js",
-    "static/js/2.c3f941e0.chunk.js",
+    "static/js/2.1add59b9.chunk.js",
     "static/css/main.263808ee.chunk.css",
-    "static/js/main.97fac480.chunk.js"
+    "static/js/main.fb4f5d0f.chunk.js"
   ]
 }
